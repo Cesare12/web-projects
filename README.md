@@ -1,5 +1,5 @@
 # web projects demo
-Some little web projects based on react
+Some little web projects using react
 
 Ideas form [here](https://github.com/florinpop17/app-ideas)
 
